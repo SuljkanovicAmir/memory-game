@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.1f712bbf.css",
+    "main.js": "/memory-card/static/js/main.5b479bfe.js",
+    "static/media/Poppins-Thin.ttf": "/memory-card/static/media/Poppins-Thin.59ff6a729e30c99b478e.ttf",
+    "static/media/bayern.png": "/memory-card/static/media/bayern.62b45dffac643278d76a.png",
+    "static/media/wolfsburg.png": "/memory-card/static/media/wolfsburg.4858c967d49067c831c8.png",
+    "static/media/bvb.png": "/memory-card/static/media/bvb.1ddececb97e787f075f0.png",
+    "static/media/bayer.png": "/memory-card/static/media/bayer.d37f7422577a47319c29.png",
+    "static/media/chelsea.png": "/memory-card/static/media/chelsea.5bacfd714357f7d4606e.png",
+    "static/media/psg.png": "/memory-card/static/media/psg.50361638fccca256f33e.png",
+    "static/media/arsenal.png": "/memory-card/static/media/arsenal.4b00388e00e3c1f9faec.png",
+    "static/media/rm.png": "/memory-card/static/media/rm.6b46e1b9549f9b15a3be.png",
+    "static/media/lpool.png": "/memory-card/static/media/lpool.569b553b95f8e37de4f2.png",
+    "static/media/city.png": "/memory-card/static/media/city.b174b68728f5c6bca6e8.png",
+    "static/media/stuttgart.png": "/memory-card/static/media/stuttgart.b5e1e32596325a0e04b9.png",
+    "static/media/westham.png": "/memory-card/static/media/westham.0d3e3b2909c45ce5dce6.png",
+    "static/media/barcelona.png": "/memory-card/static/media/barcelona.769ceccd7bf15a8523c7.png",
+    "static/media/milan.png": "/memory-card/static/media/milan.e2c497cce6578d880db9.png",
+    "static/media/rbl.png": "/memory-card/static/media/rbl.acfec61fcd13590d4290.png",
+    "index.html": "/memory-card/index.html",
+    "main.1f712bbf.css.map": "/memory-card/static/css/main.1f712bbf.css.map",
+    "main.5b479bfe.js.map": "/memory-card/static/js/main.5b479bfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f712bbf.css",
+    "static/js/main.5b479bfe.js"
+  ]
+}
