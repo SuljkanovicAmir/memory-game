@@ -1,0 +1,15 @@
+.cardContainer {
+    justify-content: center;
+    gap: 20px;
+    max-width: 70%;
+    flex-wrap: wrap;
+    display: grid;
+    align-self: center;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%/2, max(130px, 100%/5)), 1fr));  
+  }
+  
+  @media screen and (max-width: 860px) {
+    .cardContainer {
+      max-width: 100%;
+    }
+   }

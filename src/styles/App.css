@@ -1,0 +1,92 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('./fonts/Poppins-Thin.ttf')
+    }
+    
+
+
+* {
+    font-family: 'Poppins';
+    box-sizing: border-box;
+    font-weight: 800;
+    margin: 0;
+    padding: 0;
+}
+
+#root {
+    overflow-x: auto;
+    min-height: 100vh;
+}
+
+body {
+    background-color: #FFDEE9;
+    background-image: linear-gradient(180deg, #FFDEE9 0%, #B5FFFC 100%);
+}
+
+
+.App {
+    padding: 20px 20px 50px 20px
+}
+
+.messageDiv {
+    position: fixed;
+    height: 100vh;
+    width: 100%;
+    background-color: #f0f8ff91;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0px;
+    top: 0%;
+    left: 0%;
+    z-index: 99;
+    backdrop-filter: blur(10px);
+    font-size: 2em;
+}
+
+.messageDiv h1{
+    font-size: 2em;
+    text-transform: uppercase;
+    margin: unset;
+}
+
+.resetBtn {
+    cursor: pointer;
+    margin-top: 30px;
+    font-size: 1em;
+    padding: 8px 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: transparent;
+}
+
+.resetBtn:hover {
+    background-color: #000000fb;
+    color: white;
+}
+
+.score {
+    position: absolute;
+    left: 0%;
+    top: 25%;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    background-color: black;
+    padding: 20px 20px 20px 10px;
+    color: white;
+}
+
+
+
+@media screen and (max-width: 1260px) {
+    .score {
+        margin-bottom: 30px;
+        top: unset;
+        left: unset;
+        position: unset;
+        background-color: rgba(0, 0, 0, 0.26);
+        border-radius: 10px;    
+    }
+  }
+

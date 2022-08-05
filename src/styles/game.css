@@ -1,0 +1,15 @@
+.game {
+    display: flex;
+    flex-direction: column;
+}
+
+.game > h1 {
+    text-align: center;
+    margin: 25px 0px;
+}
+
+.description {
+    margin-bottom: 50px;
+    color: #c30000;
+    text-align: end;
+}
